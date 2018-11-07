@@ -1,6 +1,13 @@
-# mposclient
+# nuxt-electron-element
 
-> Mpos Client Desktop APp
+> This is a dekstop app built over Electron and Nuxt. Element UI has been added as a plugin.
+
+Using Following:
+Vuejs
+Nuxt
+Electron
+Element UI
+electron-template
 
 ## Build Setup
 

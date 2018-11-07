@@ -7,9 +7,12 @@
 	</section>
 </template>
 <script>
-export default{}
+export default {
+	head: {
+		title: 'About page'
+	}
+}
 </script>
-
 <style scoped>
 .container {
 	min-height: 100vh;
