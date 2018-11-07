@@ -2,12 +2,9 @@
 
 > This is a dekstop app built over Electron and Nuxt. Element UI has been added as a plugin.
 
-Using Following:
-Vuejs
-Nuxt
-Electron
-Element UI
-electron-template
+Using Following: --Vuejs, --Nuxt, --Electron, --Element UI, --electron-template
+
+Thanks
 
 ## Build Setup
 
